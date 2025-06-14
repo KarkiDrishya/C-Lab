@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+class Complex{
+    int real, imaginary;
+    void setdata(int rl, int im)
+    {
+        
+    }
+}
